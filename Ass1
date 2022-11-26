@@ -1,0 +1,10 @@
+a=int(input('Enter value of a:'))
+Enter value of a:10
+b=int(input('Enter value of b:'))
+Enter value of b:12
+print(a&b)
+8
+print(a|b)
+14
+print(a^b)
+6
